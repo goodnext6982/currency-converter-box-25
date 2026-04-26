@@ -1,2 +1,9 @@
-# currency-converter-box-25
-A simple currency converter project
+# Currency Converter
+
+A simple currency converter project.
+\n
+## Getting Started
+
+```bash
+python currency.py
+```
